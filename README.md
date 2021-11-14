@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Janthyy
+- 💻 programming languages I know C#, Javascript, basic Lua
+- 👨‍🎓 I’m currently learning C++
+- 👩‍💻 I'm FİVEM Developer Looking to collaborate on ...
+- 📫 How to reach me DİSCORD: ! Dark#7474
